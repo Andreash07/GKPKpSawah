@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1035997039750",
+    "project_id": "sisfo-gkpkamsaw",
+    "storage_bucket": "sisfo-gkpkamsaw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035997039750:android:deb739dd29f6663d12d507",
+        "android_client_info": {
+          "package_name": "com.gkamsaw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035997039750-l2o9o6ndk9arhmm22tk0uep85luour3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTq7wa4sIL3iD7QnzCQQ5OKNJaOnwN9_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035997039750-l2o9o6ndk9arhmm22tk0uep85luour3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
